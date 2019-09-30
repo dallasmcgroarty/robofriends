@@ -1,7 +1,7 @@
 import React from 'react'; // react view library
 import ReactDOM from 'react-dom'; // used for websites, reactnative for mobile apps
 import './index.css'; // ./ means same folder
-import App from './App'
+import App from './containers/App'
 import * as serviceWorker from './serviceWorker';
 import 'tachyons';
 
