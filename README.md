@@ -1,3 +1,7 @@
+## Robofriends
+
+Web app created using React. Website displays randomly generated robots with their name and email and also includes a search function to filter the robots by name
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
